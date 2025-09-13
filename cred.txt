@@ -1,0 +1,20 @@
+Name : shera
+Email : khippal@gmail.com
+Mobile : 1234567890
+Password : shera123
+
+Name : sachin
+Email : hacker@gmaqil.com
+Mobile : 1234567890
+Password : sachin123
+
+Name : virendra
+Email : sachin@gmail.com
+Mobile : 1234567890
+Password : sheru123
+
+Name : ajay
+Email : ajay@gmail.com
+Mobile : 1234567890
+Password : ajay123
+
