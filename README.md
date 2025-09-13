@@ -28,6 +28,10 @@ This repository provides materials for **benign phishing simulations** used only
 - Cloudflare account for your test domain (optional but recommended for telemetry).  
 - Test user accounts (explicitly not real personal accounts).
 
+## This Tool Tested On : 
+- Kali Linux
+- Parrot Security OS
+
 ## Quick Start (Local, Safe Demo)
 
 1. **Clone the repo**
